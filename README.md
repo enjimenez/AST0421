@@ -1,2 +1,1 @@
-# AST0421
-sadsasdas
+# AST0421 - Astrofísica Experimenal
