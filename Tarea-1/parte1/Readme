@@ -1,1 +1,6 @@
 
+f555w_config.txt y f814w_config.txt: archivos de configuración para las imagenes f555w y f814w respectivamente.
+output_f555w.cat y output_f814w.cat: catálogos generados por SExtractor para imagen f555w y f814w respectivamente.
+
+
+
